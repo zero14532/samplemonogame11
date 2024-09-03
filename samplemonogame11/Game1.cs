@@ -44,7 +44,7 @@ namespace samplemonogame11
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-            // TODO: Add your drawing code here
+            
 
             base.Draw(gameTime);
         }
